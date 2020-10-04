@@ -1,4 +1,4 @@
-## OUTPUTS:
+## Outputs in CSV Format:
 
 Using the following algorithms:
 * AdaBoost
