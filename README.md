@@ -8,7 +8,13 @@ Embarrassed, and certain you have the funds to cover everything needed for an ep
 While perhaps cumbersome (and often embarrassing) in the moment, this fraud prevention system is actually saving consumers millions of dollars per year. Researchers from the [IEEE Computational Intelligence Society](https://cis.ieee.org/) (IEEE-CIS) want to improve this figure, while also improving the customer experience. With higher accuracy fraud detection, you can get on with your chips without the hassle.
 
 ## Description:
-This project includes exploratory data analysis, correlation analysis, visualization and building a model to predict whether a transaction is fraudulent.
+This project includes the following tasks performed in iPython:
+* Exploratory data analysis
+* Correlation analysis
+* Data Visualization
+* Building a model to predict whether a transaction is fraudulent
+
+Python libraries used: Pandas, NumPy, SciPy, Scikit-learn, Matplotlib and Seaborn.
 
 ## Problem Statements:
 1. Visual analysis of Fradulent V/s Non-Fraudulent transactions on filtering by:
